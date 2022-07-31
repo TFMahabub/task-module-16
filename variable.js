@@ -9,6 +9,10 @@ equalMoney = mainMoney - allCost
 console.log(equalMoney)
 
 
+
+
+
+
 //prectice-2
 
 // ------all-subject------
@@ -29,4 +33,27 @@ average = parseFloat(average)
 console.log(average)
 
 
+
+
+
+
 //prectice-3
+
+var firstLine = "I am goning to be"
+var secondLine = "an awesome web developer"
+
+var allInOneLine = firstLine + " " + secondLine
+
+console.log(allInOneLine)
+
+
+
+
+
+//prectice-4
+
+var theNumber = 119;
+
+remainder = 199 % 5;
+
+console.log(remainder)
